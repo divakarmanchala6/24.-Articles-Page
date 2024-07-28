@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.article-page-home-bg-container {
+    padding: 22px;
+    background-color: #225db0;
+    height: 100vh;
+}
+
+.article-page-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+
+.article-page-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.course-card {
+    background-color: #ffffff;
+    margin: 6px;
+    border-radius: 10px;
+    padding: 15px;
+    width: 180px;
+}
+
+.course-image {
+    height: 30px;
+    width: 30px;
+}
+
+.course-title {
+    font-size: 14px;
+    margin: 0px;
+    font-weight: 500;
+    color: #1f2933;
+}
+
+.detailed-page-bg-container {
+    background-color: #225db0;
+    padding: 22px;
+    height: 100vh;
+}
+
+.list-heading {
+    color: #ffffff;
+    font-size: 22px;
+    font-family: "Roboto";
+    margin-top: 22px;
+}
+
+.list-item {
+    color: #ffffff;
+    font-family: "Roboto";
+    margin-bottom: 15px;
+}
+
+.back-button {
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    padding: 2px 16px 2px 16px;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+/*
+ navi blue #1f2933
+*/
